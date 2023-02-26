@@ -1,4 +1,3 @@
-msAkhi1/msAkhi1
 
 # Hi there 👋 I'm <b>Akhi</b>
 #### I am font-end web application developer
